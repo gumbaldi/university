@@ -1,4 +1,4 @@
-# University
+# University Template
 
 A private, persistent **multi-learner mission operating system**: AI-assisted learning, investigation, goal achievement, GitHub durable state, source-grounded knowledge, reusable learning material, and scalable scientific/empirical inquiry.
 
